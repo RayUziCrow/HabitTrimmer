@@ -13,3 +13,4 @@ https://github.com/RayUziCrow/HabitTrimmer/raw/main/HabitTrimmer_Mob_005.xd
 * [Prototype Usage Instructions](https://github.com/RayUziCrow/HabitTrimmer/wiki/Prototype-Usage-Instructions)
 * [Summary of Problem Space](https://github.com/RayUziCrow/HabitTrimmer/wiki/Summary-of-Problem-Space)
 * [Design Process](https://github.com/RayUziCrow/HabitTrimmer/wiki/Design-Process)
+* [Project Progress](https://github.com/RayUziCrow/HabitTrimmer/wiki/Project-Progress)
