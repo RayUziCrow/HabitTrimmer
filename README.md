@@ -1,21 +1,16 @@
-# HabitTrimmer
-A Videogame Addiction Treatment App
-(As part of a DECO3500 Assignment)
+# HOME
+Welcome to the HabitTrimmer wiki!
 
-## Table of Contents
-1) Repositiory Contents
-2) Project Overview
-3) Documentation Structure
-4) Prototype Usage Instructions
+## Promotional Poster
+![](https://github.com/RayUziCrow/HabitTrimmer/blob/main/wiki/promo/poster.png)
 
-## Repository Contents
-blah blah blah
+## Prototype:
+* Online/Web:
+https://xd.adobe.com/view/9d3a41ae-bdf8-4c63-735c-39d39448b419-eb0b/
+* Offline (Adobe XD file):
+https://github.com/RayUziCrow/HabitTrimmer/raw/main/HabitTrimmer_Mob_005.xd
 
-## Project Overview
-blah blah blah
-
-## Documentation Structure
-blah blah blah
-
-## Prototype Usage Instructions
-blah blah blah
+## Quick Links:
+* [Prototype Usage Instructions](https://github.com/RayUziCrow/HabitTrimmer/wiki/Prototype-Usage-Instructions)
+* [Summary of Problem Space](https://github.com/RayUziCrow/HabitTrimmer/wiki/Summary-of-Problem-Space)
+* [Design Process](https://github.com/RayUziCrow/HabitTrimmer/wiki/Design-Process)
