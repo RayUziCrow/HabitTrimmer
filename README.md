@@ -1,5 +1,4 @@
-# HOME
-Welcome to the HabitTrimmer wiki!
+Welcome to the HabitTrimmer GitHub Repository!
 
 ## Promotional Poster
 ![](https://github.com/RayUziCrow/HabitTrimmer/blob/main/wiki/promo/poster.png)
